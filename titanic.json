@@ -1,0 +1,6 @@
+{
+  "ruta_hdfs": "/user/ombonfanti/titanic_git",
+  "query": "SELECT * FROM test.titanic",
+  "separador": "|",
+  "formato": "csv"
+}
